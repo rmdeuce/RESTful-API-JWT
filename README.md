@@ -30,7 +30,7 @@
 <img src="Code Analyze/RoslynMaxafter.jpg"/>
 ### ReSharper — дополнение, разработанное компанией JetBrains для повышения продуктивности работы в Microsoft Visual Studio. https://www.jetbrains.com/ru-ru/resharper/
 Запускаем анализ из ReSharper
-<img src="Code Analyze/Resharperbegore.jpg"/>
+<img src="Code Analyze/Resharperbefore.jpg"/>
 <img src="Code Analyze/Resharper1.jpg"/>
 <img src="Code Analyze/Resharper2.jpg"/>
 <img src="Code Analyze/Resharper3.jpg"/>
