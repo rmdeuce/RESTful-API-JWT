@@ -46,5 +46,5 @@
 <img src="Code Analyze/SCS.jpg"/>
 ### Roslynator - Коллекция из 500+ анализаторов , рефакторингов и исправлений для C# на платформе Roslyn. https://github.com/JosefPihrt/Roslynator
 <img src="Code Analyze/Roslynator.jpg"/>
-### То самое сообщение после всех исправлений.
+То самое сообщение после всех исправлений.
 <img src="Code Analyze/123.jpg"/>
