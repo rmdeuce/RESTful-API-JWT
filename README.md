@@ -1,7 +1,7 @@
 # Simple RESTful-API ToDo List with JWT-Authorization 
 # [Лабораторная №1](#lab1)
 # [Лабораторная №5](#lab5)
-# [Лабораторная №5](#lab8)
+# [Лабораторная №8](#lab8)
 <a name="lab1"></a>
 ## Лабораторная №1 - Реализация простого Rest API ToDoList на .NET
 ### Регистрация пользователя
