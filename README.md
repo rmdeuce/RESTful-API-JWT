@@ -77,7 +77,7 @@ FILES=$(git diff-tree --no-commit-id --name-only HEAD)
 
 for file in $FILES; do
     echo $file
-    if [[ "$file" == *".py" ]]; then
+    if [[ "$file" == *".sln" ]]; then
         $(black ${file})
     fi
 done</div>
