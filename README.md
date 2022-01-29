@@ -52,8 +52,37 @@
 <a name="lab8"></a>
 ## Лабораторная №8 - Настройка собственного git-сервера. Использование git-хуков совместно с case-инструментами
 ### commit-msg
+<div #!../../env/Scripts/python.exe
+
+
+import re
+import sys
+
+
+regex = r'^\[[0-9]+\][a-zA-Z]+'
+msg = ''
+with open(sys.argv[1], 'r') as os:
+    msg = os.read()
+
+if not re.match(regex, msg):
+    print('Commit message pattern is: [Task number]Description')
+    sys.exit(-1)</div>
 <img src="hookscreens/commit-msg.png"/>
 ### pre-commit 
+<div>#!/bin/sh
+
+
+FILES=$(git diff-tree --no-commit-id --name-only HEAD)
+
+for file in $FILES; do
+    echo $file
+    if [[ "$file" == *".py" ]]; then
+        $(black ${file})
+    fi
+done</div>
 <img src="hookscreens/pre-commit.png"/>
 ### pre-receive
+<div> #!/bin/bash
+
+echo "Hello World" </div>
 <img src="hookscreens/pre-receive.png"/>
