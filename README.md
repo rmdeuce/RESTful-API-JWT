@@ -51,3 +51,9 @@
 <img src="Code Analyze/123.jpg"/>
 <a name="lab8"></a>
 ## Лабораторная №8 - Настройка собственного git-сервера. Использование git-хуков совместно с case-инструментами
+### commit-msg
+<img src="hookscreens/commit-msg.png"/>
+### pre-commit 
+<img src="hookscreens/pre-commit.png"/>
+### pre-receive
+<img src="hookscreens/pre-receive.png"/>
