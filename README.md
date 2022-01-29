@@ -51,6 +51,7 @@
 <img src="Code Analyze/123.jpg"/>
 <a name="lab8"></a>
 ## Лабораторная №8 - Настройка собственного git-сервера. Использование git-хуков совместно с case-инструментами
+
 ### commit-msg
 <div #!../../env/Scripts/python.exe
 
