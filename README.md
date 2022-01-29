@@ -1,6 +1,7 @@
 # Simple RESTful-API ToDo List with JWT-Authorization 
 # [Лабораторная №1](#lab1)
 # [Лабораторная №5](#lab5)
+# [Лабораторная №5](#lab8)
 <a name="lab1"></a>
 ## Лабораторная №1 - Реализация простого Rest API ToDoList на .NET
 ### Регистрация пользователя
@@ -48,3 +49,5 @@
 <img src="Code Analyze/Roslynator.jpg"/>
 То самое сообщение после всех исправлений.
 <img src="Code Analyze/123.jpg"/>
+<a name="lab8"></a>
+## Лабораторная №8 - Настройка собственного git-сервера. Использование git-хуков совместно с case-инструментами
