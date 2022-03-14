@@ -1,9 +1,9 @@
 # Simple RESTful-API ToDo List with JWT-Authorization 
-# [Лабораторная №1](#lab1)
-# [Лабораторная №5](#lab5)
-# [Лабораторная №8](#lab8)
+# [Реализация простого Rest API ToDoList на .NET](#lab1)
+# [Статический анализ кода](#lab5)
+# [Git-Hooks](#lab8)
 <a name="lab1"></a>
-## Лабораторная №1 - Реализация простого Rest API ToDoList на .NET
+## Реализация простого Rest API ToDoList на .NET
 ### Регистрация пользователя
 ![POSTuser](/screens/Register.jpg)
 ### Получение списка задач пользователя, которого не существует
@@ -15,7 +15,7 @@
 ### Удаление задачи пользователя
 ![deleteTodo](/screens/deleteTodo.jpg)
 <a name="lab5"></a>
-## Лабораторная №5 - Использование Case-инструментов для улучшения качества кода(Roslyn, PVS-Studio, ReSharper, Security Code Scan, Roslynator)
+## Использование Case-инструментов для улучшения качества кода(Roslyn, PVS-Studio, ReSharper, Security Code Scan, Roslynator)
 ### PVS-Studio — проприетарный статический анализатор кода для программ, написанных на С, C++, C++/CLI, C++/CX, C# и на Java. https://pvs-studio.com/ru/
 При изменении названия атрибута класса видим одно незначительно замечание
 <img src="Code Analyze/PVSbefore.jpg"/>
@@ -50,7 +50,7 @@
 То самое сообщение после всех исправлений.
 <img src="Code Analyze/123.jpg"/>
 <a name="lab8"></a>
-## Лабораторная №8 - Настройка собственного git-сервера. Использование git-хуков совместно с case-инструментами
+## Настройка собственного git-сервера. Использование git-хуков совместно с case-инструментами
 
 ### commit-msg
 <div #!../../env/Scripts/python.exe
